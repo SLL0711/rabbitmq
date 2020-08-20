@@ -1,0 +1,14 @@
+{
+  "queue": {
+    "0": {
+      "name": "s",
+      "prefetchCount": 1,
+	  "ClassName":"RabbitMq.Core.Queue.RabbitQueue",
+	  "UserName":"user",
+	  "Password":"abc123!",
+	  "HostName":"10.1.1.7",
+	  "Port":"5672",
+	  "connectionName":"邮件队列"
+    }
+  }
+}
