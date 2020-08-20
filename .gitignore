@@ -1,0 +1,11 @@
+node_modules
+README.md
+package-lock.json
+bin/
+obj/
+RabbitMq.Core.csproj
+RabbitMq.Core.csproj.user
+.vs
+OneProject/
+Test.sln
+packages/
